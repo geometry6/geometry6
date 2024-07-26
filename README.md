@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with math problems.
 - 📫 How to reach me: erijon.hasi@student.uni-pr.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Euclidean Geometry a lot.
+- ⚡ Fun fact: I like Euclidean Geometry.
