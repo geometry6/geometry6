@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on some software engineering projects.
 - 🌱 I’m currently learning and studying CS.
-- 🤔 I’m looking for help with math problems.
+- 🤔 I’m looking for help with using OCR from Tesseract.
 - 📫 How to reach me: erijon.hasi@student.uni-pr.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like Euclidean Geometry.
